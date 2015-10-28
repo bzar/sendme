@@ -1,0 +1,11 @@
+{
+  "name": "sendme",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "busboy": "0.2.11",
+    "is-there": "4.1.0"
+  },
+  "devDependencies": {
+  }
+}
